@@ -1,14 +1,13 @@
-Purpose-and-Planning
-====================
+#Purpose-and-Planning
+* Project Management
 
-Project Management
+##phaze 1 : Enseption : Discipline 1 
+* Business Moddeling
+* Start Date : Thursday - 2014 30 October
 
-===================
-
-phaze 1 : Analysis
-
-Start Date : Thursday - 2014 30 October
-
-Result =>
+##Question ؟
+* Goal => How business Gpu is done ?
+* What is the usage ?
+* Discribe & The internal Structure...
 
 
