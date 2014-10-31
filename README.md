@@ -11,7 +11,9 @@
 * [Bussines case](http://) ?
 
 ####Project Goals:
-* For graphic rendering (picture naturally seem)  => برای رندر کردن گرافیکی است که تصویر به طور طبیعی به نظر برسد 
+* For graphic rendering (picture naturally seem)  
+
+برای رندر کردن گرافیکی است که تصویر به طور طبیعی به نظر برسد 
 
 ####Project Range:
 - (`class motherboard`)
