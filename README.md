@@ -10,4 +10,6 @@
 * 2 What is the usage ?
 * 3 Discribe & The internal Structure...
 
-
+##1 Goal ( How business Gpu is done ? ) :
+* For graphic rendering (picture naturally seem)  => برای رندر کردن گرافیکی است که تصویر به طور طبیعی به نظر برسد 
+* 
