@@ -5,9 +5,9 @@
 * Business Moddeling
 * Start Date : Thursday - 2014 30 October
 
-##Question ؟
-* Goal => How business Gpu is done ?
-* What is the usage ?
-* Discribe & The internal Structure...
+##Questions ؟
+* 1 Goal => How business Gpu is done ?
+* 2 What is the usage ?
+* 3 Discribe & The internal Structure...
 
 
