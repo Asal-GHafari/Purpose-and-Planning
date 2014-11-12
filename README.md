@@ -26,7 +26,5 @@
 - Activity use
 - ( وظیفه GPU)?
 - [Task Gpu](http://8pic.ir/images/81mkhhdvktvgd3826dgl.gif) ?
-- 
-- 
-- 
+
 
