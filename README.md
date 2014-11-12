@@ -24,6 +24,7 @@
 
 #####Step2
 - Activity use
-- ( gpuوظیفه )? => [Task Gpu](http://8pic.ir/images/81mkhhdvktvgd3826dgl.gif) ?
-- ( gpu دوشرکت معتبر برای تولید هسته )=>GPU core production by compani  AMD & NVIDIA ](http://8pic.ir/images/81mkhhdvktvgd3826dgl.gif) ?
+- ( gpuوظیفه )? => [Task Gpu](http://8pic.ir/images/81mkhhdvktvgd3826dgl.gif) 
+- ( gpu دوشرکت معتبر برای تولید هسته )=>GPU core production by compani  AMD & NVIDIA ](http://8pic.ir/images/81mkhhdvktvgd3826dgl.gif)
+
 
