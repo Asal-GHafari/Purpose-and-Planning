@@ -26,7 +26,8 @@
 - Activity use
 - ( gpuوظیفه )? => [Task Gpu](http://8pic.ir/images/81mkhhdvktvgd3826dgl.gif) 
 - ( gpu دوشرکت معتبر برای تولید هسته )=>[GPU core production by compani  AMD & NVIDIA ](http://8pic.ir/images/txviq827e8kx87xvf2hd.gif)
-
+- 
+#####step3
 #####عنوان مقالات ترجمه شده 
 - 1) Parallel Implementation of Color Based Image  Retrieval Using CUDA on the GPU
 - رنگ های تصاویر را توسط  نرم افزار کودا  روی  چی پی یو پیاده سازی میکینم
