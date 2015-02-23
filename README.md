@@ -30,6 +30,7 @@
 #####step 3
 - عنوان مقالات ترجمه شده 
 - 1) Parallel Implementation of Color Based Image  Retrieval Using CUDA on the GPU
+- رنگ های تصاویر را توسط  نرم افزار کودا  روی  چی پی یو پیاده سازی میکینم
 - توسط نر افزار cuda  روی  gpu  رنگ های که از تصاویر بدست آمده را  به صورت موازی پیاده سازی میکنیم. 
 - I.J. Information Technology and Computer Science, 2014, 01, 33-40
 - Published Online December 2013 in MECS (http://www.mecs-press.org/)
