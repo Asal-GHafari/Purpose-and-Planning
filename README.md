@@ -35,8 +35,10 @@
 - Published Online December 2013 in MECS (http://www.mecs-press.org/)
 - DOI: 10.5815/ijitcs.2014.01.04
 
- 
-
+ نویسندگان 
+- هادی حیدری Department of Computer Engineering, Razi University, Kermanshah, Iran ( 'E-mail: h.heidari@pgs.razi.ac.ir ' )
+- عبداله چاله چالی  Department of Computer Engineering, Razi University, Kermanshah, Iran ( ' E-mail: chalechale@razi.ac.ir ')
+- علیرضا احمدی محمد ابادی  Department of Computer Engineering, Razi University, Kermanshah, Iran ( ' E-mail: alireza.ahmadi@pgs.razi.ac.ir ' )
 
 
 
